@@ -8,7 +8,7 @@ It is mandatory to complete this assignment in C Language.  <br />
 
 
 ## Problems
- <br /><br />
+ <br />
 1. Implement a stack(operations - push, pop, is_empty,peek). 
  <br /> <br />
 2. Implement a queue (operations - enqueue, dequeue, is_empty,peek). 
